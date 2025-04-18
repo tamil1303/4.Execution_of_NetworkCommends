@@ -27,6 +27,30 @@ This commands includes
 <BR>
 
 ## Output
+NETSTAT
+![image](https://github.com/user-attachments/assets/2e7a3277-7c89-4a7e-96b8-116be454426d)
+
+IFCONFIG
+![image](https://github.com/user-attachments/assets/23cc9c9c-64d0-449b-a073-fd13cd00eb40)
+
+NSLOOKUP
+![image](https://github.com/user-attachments/assets/be6a86b0-f643-40ff-8c59-a66f73e3f27b)
+
+TRACEROUTER
+![image](https://github.com/user-attachments/assets/19465616-dd70-405a-a4dc-f0e09893d0f9)
+
+PING
+![image](https://github.com/user-attachments/assets/b196aa63-e6c4-4a5f-9c19-e63d249a5f3e)
+
+GETMAC
+![image](https://github.com/user-attachments/assets/279b7e5c-8d5c-4636-b2cf-1f5a36acaf54)
+
+HOSTNAME
+![image](https://github.com/user-attachments/assets/0719cda8-2f39-4c97-866d-84533586777c)
+
+NBTSTAT
+![image](https://github.com/user-attachments/assets/422fc305-d306-4612-b850-d1a2791062a9)
+
 
 ## Result
 Thus Execution of Network commands Performed 
